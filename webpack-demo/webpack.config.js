@@ -30,7 +30,7 @@ module.exports = {
       {
         test: /\.xml$/i,
         use: ['xml-loader'],
-    }
+    },
     {
         test: /\.toml$/i,
         type: 'json',
