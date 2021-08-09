@@ -1,0 +1,19 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "npm install npm i -D webpack webpack-cli",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shulaplai/webpack-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shulaplai/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/shulaplai/webpack-practice#readme"
+}
